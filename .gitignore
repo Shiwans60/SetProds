@@ -1,0 +1,19 @@
+# Product Management Full-Stack
+
+This is a full-stack inventory management system built with a Java Spring Boot backend and a React frontend.
+
+## Tech Stack
+- **Backend:** Java, Spring Boot, MongoDB
+- **Frontend:** React.js, TypeScript, Vite, Tailwind CSS
+- **Database:** MongoDB Atlas
+
+## How to Run
+
+### Backend (Port 8080)
+1. Open the `/backend` folder in IntelliJ IDEA.
+2. Run the `ProductManagementApplication` class.
+
+### Frontend (Port 8081)
+1. Navigate to the `/frontend` directory: `cd frontend`
+2. Install dependencies: `npm install`
+3. Start the development server: `npm run dev`
